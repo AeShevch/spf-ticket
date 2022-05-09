@@ -1,0 +1,17 @@
+.property {
+  margin-bottom: 12px;
+
+  &__title {
+    color: $secondary-color;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 180%;
+    margin-bottom: 3px;
+  }
+
+  &__value {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+  }
+}
